@@ -1,11 +1,10 @@
 ipykernel
 torch
 torchinfo
-tqdm
 torchvision
+tqdm
 opencv-python-headless
 torchinfo
 torchmetrics
 opendatasets
 lightning
-gym
