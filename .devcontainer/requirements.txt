@@ -7,3 +7,5 @@ opencv-python-headless
 torchinfo
 torchmetrics
 opendatasets
+lightning
+gym

@@ -1,5 +1,5 @@
 {
-    "name": "Torch ENV",
+    "name": "Playground",
     "dockerFile": "Dockerfile",
     
     "extensions": [
