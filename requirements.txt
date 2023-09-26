@@ -1,0 +1,9 @@
+ipykernel
+torch
+torchinfo
+tqdm
+torchvision
+opencv-python-headless
+torchinfo
+torchmetrics
+opendatasets
